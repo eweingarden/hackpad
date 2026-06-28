@@ -10,7 +10,7 @@ A 3-key macropad built with a Seeed XIAO RP2040 and MX switches. Keys are mapped
 
 !\[Alt text][(images/schematic.png)](https://github.com/eweingarden/hackpad/blob/main/images/schematic.png)
 
-!\[Alt text][(images/PCB.png)](https://github.com/eweingarden/hackpad/blob/main/images/PCB.png)
+!\[Alt text][(images/pcb.png)](https://github.com/eweingarden/hackpad/blob/main/images/pcb.png)
 
 
 
